@@ -8,5 +8,5 @@ then
 echo "You won the game"
 else
 echo "You lost the game"
-echo "You lost the game"
+echo "You lost the game..."
 fi
