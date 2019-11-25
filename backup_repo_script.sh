@@ -1,5 +1,5 @@
 #!/bin/bash
-###!/usr/bin/env bash
+####!/usr/bin/env bash
 #mv /onkar/.profile.bak /onkar/.profile
 # you can run the programe to take backup from any where..
 #Before that make sure you have /home/shared/export/.. folders and you need to: keep .sh, .py, .yml files at shell, python and ansible folders
